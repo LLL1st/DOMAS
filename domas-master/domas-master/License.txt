@@ -1,0 +1,13 @@
+/**
+ *  Copyright © 2022 IHEPCC & NHEPSDC, Computing Center, Institute of High Energy Physics, CAS & National HEP Data Center. All rights reserved.
+ *  This software Cordwood is the confidential and proprietary information of IHEPCC & NHEPSDC.
+ *  You shall not disclose such confidential information and shall use it only in accordance with the terms of the license agreement you entered into with IHEPCC & NHEPSDC.
+ *  The software has added a copyright notice.
+ *  
+ *  版权所有方为IHEPCC & NHEPSDC，保留所有权利。
+ *  Cordwood软件是IHEPCC和NHEPSDC的保密和专有软件。
+ *  您不得披露本软件信息，只能按照您与IHEPCC & NHEPSDC签订的许可协议的条款使用本软件。
+ *  代码已使用特殊方式添加了版权声明。
+ */
+
+
